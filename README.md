@@ -34,7 +34,7 @@ Included screenshots of the dashboard here.
 ## 📂 Files Included
 - `Task3_07-08-2025.pbix` – Power BI dashboard file
 - `Sales_Dashboard_Summary(1).pptx` – Summary presentation
-- `README(1).md` – This file
+- `README.md` – This file
 
 ---
 
